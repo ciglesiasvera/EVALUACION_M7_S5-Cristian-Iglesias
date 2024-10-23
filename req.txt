@@ -1,0 +1,9 @@
+CUE: RELACIONES MUCHOS A UNO
+DRILLING: LISTADO DE PRODUCTOS
+Para resolver este ejercicio, anteriormente debe haber revisado la lectura y los videos del CUE:
+Relaciones Muchos a Uno.
+EJERCICIO
+Partiendo del modelo creado en el Rebound Exercise:
+1. Muestre el modelo creado en base de datos por el modelo ORM de Django.
+2. Inserte los siguientes objetos en la consola de Python.
+3. Muestra en la consola los objetos creados en la base de datos.
